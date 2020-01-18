@@ -1,0 +1,14 @@
+--  Factory method      #Done
+--  Builder             #Done
+--  Command class       #Done
+--  Command Handling    #Done
+--  REGEX               #Done
+--  Observer Pattern    #Done (Subscriber and Notification)
+--  List method         #Done
+--  Notify method       #Done
+--  Remove method       #Done
+--  Add method          #Done
+--  Integration         #Done
+
+
+100% COMPLETEEE
